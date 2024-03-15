@@ -1,0 +1,23 @@
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(225, 225, 142);
+    height: fit-content;
+    padding: 20px;
+    margin: 30px;
+}
+
+.link{
+    font-weight: 800;
+
+
+}
+
+.link:hover{ 
+    color: gray; 
+    cursor: pointer;
+}
